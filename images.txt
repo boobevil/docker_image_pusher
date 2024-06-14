@@ -1,2 +1,3 @@
 nyanmisaka/jellyfin
 dreamacro/clash
+gaoyb7/rclone
