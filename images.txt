@@ -3,3 +3,4 @@ dreamacro/clash
 gaoyb7/rclone
 mumiehub/rclone-mount
 cloudnas/clouddrive2
+weejewel/wg-easy
