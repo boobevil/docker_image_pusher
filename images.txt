@@ -6,3 +6,4 @@ cloudnas/clouddrive2
 weejewel/wg-easy
 rabbitmq:management
 ghcr.io/open-webui/open-webui:cuda
+ghcr.io/open-webui/open-webui:main
