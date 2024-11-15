@@ -8,3 +8,4 @@ rabbitmq:management
 ghcr.io/open-webui/open-webui:cuda
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:ollama
+
