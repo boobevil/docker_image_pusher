@@ -7,4 +7,5 @@ weejewel/wg-easy
 rabbitmq:management
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:ollama
+byaidu/pdf2zh
 
