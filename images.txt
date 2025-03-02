@@ -9,3 +9,4 @@ ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:ollama
 byaidu/pdf2zh
 11notes/kms
+11notes/kms-gui:stable
