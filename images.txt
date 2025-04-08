@@ -10,3 +10,4 @@ ghcr.io/open-webui/open-webui:ollama
 byaidu/pdf2zh
 11notes/kms
 11notes/kms-gui:stable
+grafana/grafana-enterprise:11.6.0-ubuntu
