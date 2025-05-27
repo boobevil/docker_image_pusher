@@ -1,14 +1,1 @@
-nyanmisaka/jellyfin
-dreamacro/clash
-gaoyb7/rclone
-mumiehub/rclone-mount
-cloudnas/clouddrive2
-weejewel/wg-easy
-rabbitmq:management
-ghcr.io/open-webui/open-webui:main
-ghcr.io/open-webui/open-webui:ollama
-byaidu/pdf2zh
-# 11notes/kms
-# 11notes/kms-gui:stable
-grafana/grafana-enterprise:11.6.0-ubuntu
 shenxianmq/auto_symlink
