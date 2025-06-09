@@ -1,2 +1,1 @@
-cloudnas/clouddrive2
-
+jellyfin/jellyfin
