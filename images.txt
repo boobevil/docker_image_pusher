@@ -1,1 +1,1 @@
-nyanmisaka/jellyfin:latest
+nginx:1.7.9
