@@ -1,1 +1,2 @@
-nginx:latest
+mysql:8.0.33
+nginx:1.25.5-alpine
