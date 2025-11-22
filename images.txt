@@ -3,3 +3,4 @@ nginx:1.25.5-alpine
 hwdsl2/ipsec-vpn-server:latest
 portainer/portainer-ce:latest
 rancher/rancher
+thingsboard/tb-postgres:4.2.1
